@@ -26,4 +26,4 @@ node_modules should now be created in both client (movies-app) and server (backe
 
  --> npm start
 
-This should work as I verified after uploading to git. Please check screenshots from scratch.
+This should work as I verified after uploading to git. Please check screenshots/evidences (https://github.com/mhattika/G7B1_ReactJS_GradedProject4/blob/main/ReactJS_GradedProject4_Evidences.pdf) from scratch.
